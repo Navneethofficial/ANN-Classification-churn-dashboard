@@ -9,24 +9,21 @@ This project demonstrates end-to-end machine learning, including **data preproce
 
 ## 🔍 Project Structure
 
-📁 ann-classification-churn-dashboard/
-│
-├── 📄 app.py # Main Streamlit app
-├── 📄 requirements.txt # Python dependencies
-│
-├── 📂 data/ # Dataset folder
-│ └── 📊 churn.csv # Sample customer churn data
-│
-├── 📂 models/ # Trained model artifacts
-│ └── 🤖 ann_model.h5 # Saved ANN model
-│
-├── 📂 notebooks/ # Jupyter notebooks
-│ └── 📒 training.ipynb # Model training & experiments
-│
-└── 📄 README.md # Project documentation
+ann-classification-churn-dashboard:
+  - app.py                # Main Streamlit app
+  - requirements.txt      # Python dependencies
+  
+  data:                   # Dataset folder
+    - churn.csv           # Sample customer churn data
 
-yaml
-Copy code
+  models:                 # Trained model artifacts
+    - ann_model.h5        # Saved ANN model
+
+  notebooks:              # Jupyter notebooks
+    - training.ipynb      # Model training & experiments
+
+  - README.md             # Project documentation
+
 
 ---
 
