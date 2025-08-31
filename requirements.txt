@@ -1,6 +1,6 @@
 tensorflow==2.20.0
 pandas==2.2.2
-numpy==1.26.4
+numpy==2.2.2
 scikit-learn==1.5.1
 tensorboard==2.20.0
 matplotlib==3.9.2
