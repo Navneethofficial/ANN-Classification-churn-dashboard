@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/ann-classification-churn-dashboard)](https://github.com/your-username/ann-classification-churn-dashboard)
+
 # 📊 Customer Churn Prediction Dashboard
 
 An interactive dashboard powered by **Artificial Neural Networks (ANNs)** for accurate, real-time customer churn prediction. Explore the entire ML lifecycle—data preprocessing, model training, and live deployment—with a feature-rich **Streamlit** web application.
